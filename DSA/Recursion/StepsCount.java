@@ -1,3 +1,4 @@
+
 /* 
 Input = 14
 output = 6
